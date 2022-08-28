@@ -8,3 +8,9 @@
 
 ### Documentation
 See our project documentation [here](https://cs3219-project-ay2223s1-g22.github.io/project-report/).
+
+### Microservice Repos
+Access to these repositories are restricted to team members for now.
+- [Frontend](https://github.com/cs3219-project-ay2223s1-g22/frontend)
+- [User Service](https://github.com/cs3219-project-ay2223s1-g22/user-service)
+- [Matching Service](https://github.com/cs3219-project-ay2223s1-g22/matching-service)
